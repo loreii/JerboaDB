@@ -4,9 +4,9 @@ Jerboa DB is a viewer that rely on JavaFX and JDBC for fetching data from a SQL 
 The application is alittle bit more than an example but mighr be useful if you want to understand performances of queries and plottign Numerical data in a chart. I performed a couple of tests with a 1Mln result and the plot goes smoothly. 
 
 ## Snapshots
-[3d plot](media/plot.jpg)
-[custom sql](media/sql.jpg)
-[performance chart](media/perf.jpg)
+![3d plot](media/plot.jpg?raw=true)
+![custom sql](media/sql.jpg?raw=true)
+![performance chart](media/perf.jpg?raw=true)
 
 
 ## Things to do 
